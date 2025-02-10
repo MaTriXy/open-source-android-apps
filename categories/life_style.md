@@ -13,11 +13,12 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Banya](https://github.com/forezp/banya) | An openresource  for Douban API with NetEase Music UI. | Java |
+[Birday](https://github.com/m-i-n-a-r/birday) | Wonderful and helpful birthday calendar and reminder. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.minar.birday)  [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="120">](https://f-droid.org/de/packages/com.minar.birday/)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+[COVID Diary](https://github.com/apozas/contactdiary) | Keep track of the people you have recently been with. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary)
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -27,8 +28,8 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
-[Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap)
+[Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
+[Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | Java | 
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
@@ -38,7 +39,7 @@ App Name                   | Describe                  | Major Language         
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+|[Groceries Store](https://github.com/hieuwu/android-groceries-store)| An open source project help people order grocery online. |Kotlin| [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hieuwu.groceriesstore)
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -73,7 +74,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Narrate](https://github.com/timothymiko/narrate-android) | A small and simple journal. | Java |[![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.datonicgroup.narrate.app) 
+[Narrate](https://github.com/timothymiko/narrate-android) | A small and simple journal. | Java | 
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
@@ -94,7 +95,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Reminder Pro](https://github.com/FarshidRoohi/ReminderPro) | features now available: Ability to record and share sound, pad, ability to add geographic location and notification, two language app, ability to change how you view the map with your taste. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro)
+[Reminder Pro](https://github.com/FarshidRoohi/ReminderPro) | features now available: Ability to record and share sound, pad, ability to add geographic location and notification, two language app, ability to change how you view the map with your taste. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro)
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
@@ -104,7 +105,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+|[Teapp](https://github.com/marianpekar/teapp) | A lightweight personal database for tea enthusiasts with a timer, infusion counter, and ratio calculator. | Kotlin | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/marianpekar/teapp/releases)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 

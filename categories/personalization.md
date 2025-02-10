@@ -18,6 +18,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [CandyBar](https://goo.gl/tak6hn) | CandyBar is Android icon pack dashboard library developed by Dani Mahardhika. CandyBar is open source and free to use.  | Java | 
+[CandyBar (fork)](https://github.com/zixpo/candybar)) | Improved version of the original CandyBar Dashboard developed by sarsamurmu. | Java | 
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -57,20 +58,22 @@ App Name                   | Describe                  | Major Language         
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [KISS Launcher](https://github.com/Neamar/KISS) |KISS is a blazingly fast launcher for android requiring nearly no memory to run.http://kisslauncher.com/  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.neamar.kiss) 
+ [KISS Launcher](https://github.com/Neamar/KISS) |KISS is a blazingly fast launcher for android requiring nearly no memory to run.http://kisslauncher.com/  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.neamar.kiss) 
+ [kvaesitso](https://github.com/MM2-0/Kvaesitso) | Kvaesitso is a search focused, free and open source launcher for Android. | Kotlin | 
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Launcher3](https://github.com/amirzaidi/Launcher3) | Launcher3 with Pixel Launcher features  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/amirzaidi/Launcher3/releases/latest)   
-[Lens Launcher](https://github.com/nicholasrout/lens-launcher) | Source Code & Resources for Lens Launcher  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nickrout.lenslauncher)
-[LoneColor](https://github.com/appgramming/LoneColor-Android) | Set an instant beautiful color wallpaper with one tap, and a zero interface app  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.appgramming.lonecolor)  
+[Lens Launcher](https://github.com/nicholasrout/lens-launcher) | Source Code & Resources for Lens Launcher  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=nickrout.lenslauncher)
+[LoneColor](https://github.com/appgramming/LoneColor-Android) | Set an instant beautiful color wallpaper with one tap, and a zero interface app  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.appgramming.lonecolor)  
+[Lunar Launcher](https://github.com/iamrasel/lunar-launcher) | Feature rich android home | Kotlin | [![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/rasel.lunar.launcher) 
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Micopi](https://github.com/easytargetmixel/micopi_android) | Android app: Missing Contact Pictures  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.easytarget.micopi)
-[Muzei Live Wallpaper](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android http://www.muzei.co/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)  
+[Micopi](https://github.com/easytargetmixel/micopi_android) | Android app: Missing Contact Pictures  | Java | 
+[Muzei Live Wallpaper](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android http://www.muzei.co/ | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)  
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
@@ -80,8 +83,7 @@ App Name                   | Describe                  | Major Language         
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
+[Olauncher](https://github.com/tanujnotes/Olauncher) | Olauncher is a minimal AF, privacy focused, free forever, open-source launcher with daily fresh new wallpapers.|Kotlin|[![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=app.olauncher) |
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
@@ -105,7 +107,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ | [thumb-key](https://github.com/dessalines/thumb-key) | A privacy-conscious keyboard made for your thumbs  | Kotlin | [![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/de/packages/com.dessalines.thumbkey/)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
@@ -120,7 +122,7 @@ App Name                   | Describe                  | Major Language         
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WallpaperStore](https://github.com/zzhoujay/WallpaperStore) | Wallpaper developed with Kotlin | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://www.pgyer.com/wallpaper-store)  
+[WallpaperStore](https://github.com/zzhoujay/WallpaperStore) | Wallpaper developed with Kotlin | Java | 
 [wall-splash-android](https://github.com/mikepenz/wallsplash-android) | wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos) | Java |  
 [Wally](https://github.com/Musenkishi/wally) | Wally is a fast and efficient open source wallpaper application for Android. | Java |  
 
